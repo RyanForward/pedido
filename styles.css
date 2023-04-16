@@ -74,7 +74,7 @@ body{
 
 .fotos{
     width: 80vw;
-    height: 90vh;
+    height: 110vh;
     display: flex;
     margin: 0 auto;
     flex-direction: column;
